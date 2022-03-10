@@ -1,1 +1,1 @@
-# -nternet-tabanl-programlama
+# internet-tabanli-programlama
